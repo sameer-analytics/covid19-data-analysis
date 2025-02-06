@@ -142,4 +142,6 @@ This project involves web scraping COVID-19 data from Worldometer and performing
       - covid-19 country wise data analysis dashboard.png :This is the image of the dashboard
 - **b_reports**
       - insights.md: It contains the summerize of the insights
-
+  
+**README.md:** Documentation describing the project overview, steps, and insights.
+**requirements.txt:** Lists all the libraries required to run the project.
